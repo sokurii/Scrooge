@@ -5,6 +5,7 @@
 "꾸준히 모으기 힘들어..."  
 "아끼는 재미가 없어!"  
 ```
+![image](https://github.com/sokurii/Scrooge/assets/122415844/a6547a31-7c48-444f-b0d0-33c3c158cec8)
 
 - Gamification을 통해 소비습관을 개선하는 서비스
 - 스크루지 빌리지, 파이트, 드림과 같은 다양한 기능으로 경험치 획득 가능
